@@ -1,0 +1,1 @@
+{'dataset': 'eurosat', 'dir_path': './temp', 'model': 'qvt', 'hybrid': False, 'epochs': 10, 'batch_size': 1, 'lr': 0.003, 'classes': [0, 1, 2], 'embed_dim': 8, 'hidden_dim': 64, 'num_channels': 3, 'num_heads': 8, 'num_layers': 1, 'num_classes': 3, 'patch_size': 8, 'num_patches': 4, 'dropout': 0.2, 'vec_loader': 'diagonal', 'ort_layer': 'pyramid'}
